@@ -7,12 +7,12 @@ I build mobile apps that people love to use. Check out my work:
 ### 🔐 KeyVault 2FA Authenticator
 A secure two-factor authentication app to keep your accounts safe.
 
-🔗 [keyvault.app](https://keyvault.app)
+🔗 [Visit KeyVault](https://keyvault.app)
 
 ### 🎵 Resonance: Slowed and Reverb
 Transform your music with slowed and reverb effects.
 
-🔗 [slowedreverb.app](https://slowedreverb.app)
+🔗 [Visit Resonance](https://slowedreverb.app)
 
 ---
 
