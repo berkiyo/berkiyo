@@ -1,9 +1,3 @@
-# 👋 Hi, I'm berkiyo
-
-## 📱 Mobile App Developer
-
-I build mobile apps that people love to use. Check out my work:
-
 ### 🔐 KeyVault 2FA Authenticator
 A secure two-factor authentication app to keep your accounts safe.
 
@@ -13,7 +7,3 @@ A secure two-factor authentication app to keep your accounts safe.
 Transform your music with slowed and reverb effects.
 
 🔗 [Visit Resonance](https://slowedreverb.app)
-
----
-
-*Thanks for stopping by! Feel free to explore my projects and apps.*
