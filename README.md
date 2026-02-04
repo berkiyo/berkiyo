@@ -7,3 +7,14 @@ A secure two-factor authentication app to keep your accounts safe.
 Transform your music with slowed and reverb effects.
 
 🔗 [Visit Resonance](https://slowedreverb.app)
+
+### 💧 AquaBuddy: Water Tracker
+Hydration that feels effortless.
+
+🔗 [Visit AquaBuddy](https://aquabuddy.app)
+
+
+### 💰 BettaInvoice: Invoice Maker
+Invoice maker for freelancers & small businesses
+
+🔗 [Visit BettaInvoice](https://bettainvoice.com)
