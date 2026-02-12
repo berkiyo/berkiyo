@@ -1,4 +1,4 @@
-## Welcome, check out some of our apps:
+## Welcome! Check out these apps:
 
 ### 🔐 KeyVault 2FA Authenticator
 A secure two-factor authentication app to keep your accounts safe.
